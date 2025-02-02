@@ -61,10 +61,10 @@ I am a Computer Science student passionate about building secure systems, defend
 ## 📁 Projects
   
 - **[Autocar Challenge](https://github.com/username/autocar-challenge)**  
-  A project to design and build an autonomous car. My role included algorithm development and sensor integration.
+  A individual project to design and build an autonomous car.
 
-- **[AIROST Program](https://github.com/username/airost)**  
-  Designed and programmed robotic systems, focusing on control algorithms and sensor integration.
+- **[AIROST Program](https://github.com/clis013/TeamCKA)**  
+  Designed and develop WebApp, focusing on develop Authentication page and Report Summary.
 
 ---
 
