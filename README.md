@@ -82,10 +82,10 @@ I am a Computer Science student passionate about building secure systems, defend
 - **Assignment 1**: Industry Talk Poster 🖼️  
 [View Poster](assets/industry_talk_poster.pdf)
 - **Assignment 2**: Industry Visit Video 🎥  
-[Watch Video](assets/industry_talk_video.mp4)
+[Watch Video](https://youtu.be/HEHZ8mps7Tw)
 
 ---
-[Assignment 1 - Poster](assets/industry_talk_poster.pdf)  
+[Assignment 1 - Poster](https://github.com/abralyn-hoo/E-portfolio/tree/main/Assignment%201)  
 [Assignment 2 - Video](assets/industry_talk_video.mp4)  
 [Assignment 3 - Report](assets/industry_talk_report.pdf)  
 [Assignment 4 - Technical Paper](assets/industry_talk_paper.pdf)
