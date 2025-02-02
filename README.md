@@ -6,7 +6,7 @@ Welcome to my e-portfolio! This repository highlights my academic achievements, 
 
 
 <p align="center">
-  <img src = "https://th.bing.com/th/id/R.3990d6a02f0d5137053ceaf82f340cfd?rik=NfvTbo3PfpzzXA&riu=http%3a%2f%2fwww.pixelstalk.net%2fwp-content%2fuploads%2f2016%2f07%2fComputer-Science-Pictures-HD.jpg&ehk=f9SU4Dzs6NTVrr5FToQeU5WJmrGY31QsSRMAQ3Vverg%3d&risl=&pid=ImgRaw&r=0"/>
+  <img src = "https://th.bing.com/th/id/R.3990d6a02f0d5137053ceaf82f340cfd?rik=NfvTbo3PfpzzXA&riu=http%3a%2f%2fwww.pixelstalk.net%2fwp-content%2fuploads%2f2016%2f07%2fComputer-Science-Pictures-HD.jpg&ehk=f9SU4Dzs6NTVrr5FToQeU5WJmrGY31QsSRMAQ3Vverg%3d&risl=&pid=ImgRaw&r=0" width="500" height="200"/>
 </p>
 
 ## About Me 👨‍💻
