@@ -59,8 +59,7 @@ I am a Computer Science student passionate about building secure systems, defend
 ## Additional
 
 ### Honors and Awards
-- **Dean's List** (2024)  
-- **Best Project Award** at AIROST Program (2024)
+- **Scholar of Lion Group**
 
 ## 📁 Projects
   
