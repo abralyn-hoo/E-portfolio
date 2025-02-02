@@ -93,7 +93,7 @@ I am a Computer Science student passionate about building secure systems, defend
 
 ### Design Thinking (Low Fidelity Prototype)
 - **Description**: Designed and created a low-fidelity prototype for a new system concept using design thinking methodology.
-- [Low Fidelity Prototype](assets/low_fidelity_prototype.jpg)
+- [Low Fidelity Prototype](https://github.com/abralyn-hoo/E-portfolio/tree/main/Desgin%20Thinking)
 
 ---
 
