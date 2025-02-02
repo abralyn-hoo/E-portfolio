@@ -37,9 +37,7 @@ I am a Computer Science student passionate about building secure systems, defend
 - **Student** at the University of Technology Malaysia (UTM)
 
 ### Skills 💻:
-- **Programming Languages**: Python, C++, Java, HTML, CSS  
-- **Security Tools**: Kali Linux, Wireshark, Burp Suite  
-- **Cybersecurity**: Network Security, Ethical Hacking, Cryptography, Digital Forensics  
+- **Programming Languages**: Python, C++, JavaScripts, HTML, CSS, React
 - **Robotics & Autonomous Systems**: ROS, Sensor Integration, Algorithm Development  
 - **Soft Skills**: Problem-solving, teamwork, time management, communication
 
