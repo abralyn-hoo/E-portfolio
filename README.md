@@ -79,14 +79,13 @@ I am a Computer Science student passionate about building secure systems, defend
 
 ---
 
----
 
 ## 📝 Assignments This Semester
 ---
--**[Assignment 1 - Poster](https://github.com/abralyn-hoo/E-portfolio/tree/main/Assignment%201)**  
--**[Assignment 2 - Video](https://youtu.be/HEHZ8mps7Tw)**
--**[Assignment 3 - Report](https://github.com/abralyn-hoo/E-portfolio/tree/main/Assignment%203)**
--**[Assignment 4 - Technical Paper](https://github.com/abralyn-hoo/E-portfolio/tree/main/Assignment%204)**
+- **[Assignment 1 - Poster](https://github.com/abralyn-hoo/E-portfolio/tree/main/Assignment%201)**  
+- **[Assignment 2 - Video](https://youtu.be/HEHZ8mps7Tw)**
+- **[Assignment 3 - Report](https://github.com/abralyn-hoo/E-portfolio/tree/main/Assignment%203)**
+- **[Assignment 4 - Technical Paper](https://github.com/abralyn-hoo/E-portfolio/tree/main/Assignment%204)**
 
 ### PC Assembly (Lab)
 - **Description**: Assembled a computer system from scratch, focusing on hardware integration and troubleshooting.
