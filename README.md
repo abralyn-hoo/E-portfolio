@@ -89,7 +89,7 @@ I am a Computer Science student passionate about building secure systems, defend
 
 ### PC Assembly (Lab)
 - **Description**: Assembled a computer system from scratch, focusing on hardware integration and troubleshooting.
-- [PC Assembly Lab Report](assets/pc_assembly_report.pdf)
+- [PC Assembly Lab Report](https://github.com/abralyn-hoo/E-portfolio/tree/main/PC%20Assemble)
 
 ### Design Thinking (Low Fidelity Prototype)
 - **Description**: Designed and created a low-fidelity prototype for a new system concept using design thinking methodology.
