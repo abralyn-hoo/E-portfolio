@@ -70,7 +70,7 @@ I am a Computer Science student passionate about building secure systems, defend
 
 ## 📱 Links
 
-- [GitHub](https://github.com/username)  
+- [GitHub](https://github.com/abralyn-hoo/E-portfolio)  
 - [LinkedIn](www.linkedin.com/in/-abralyn-8260a1217)
 
 ---
