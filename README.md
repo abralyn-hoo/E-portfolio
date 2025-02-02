@@ -111,6 +111,9 @@ After attending the talk, I realized the importance of balancing technical and s
 - **Assignment 4**: Newspaper
 I have gained valuable insights into the transformative role of emerging technologies in agriculture. I’ve learned how concepts like precision farming, automated machinery, and predictive analytics are revolutionizing the industry. By integrating AI, IoT, and robotics, I’ve come to appreciate how these innovations help farmers improve efficiency, conserve resources, and reduce risks. This knowledge has expanded my understanding of how technology can drive smarter and more sustainable practices. It’s inspiring to see how these advancements can empower farmers, and I’m excited to apply this knowledge in future projects.
 
+- **Desgin Thinking**
+My goal is to use my skills that I have learned in this course to develop solutions that make our daily life more efficient and convenient. Through this project, I have the opportunity to combine my knowledge of IoT and Artificial Intelligence with practical problem solving to help people manage unpredictable weather better. I realized how technology helps people in their daily lives and improves it.
+
 
 ### What I've Learned This Semester:
 
