@@ -13,6 +13,10 @@ Welcome to my e-portfolio! This repository highlights my academic achievements, 
 I'm Abralyn Hoo Weng Yan.<br>My MBTI is INFJ.<br>I aim to getting flying color in all the exam!<br>I like music my hobby is dancing, playing the piano, singing, reading, watching movie!
 
 ## Profile
+<p align="center">
+  <img src = "https://github.com/user-attachments/assets/0fb80077-dfe2-474a-a9d3-97bce4075cae" />
+</p>
+
 
 **Headline:**  
 Bachelor of Computer Science | Network & Computer Security | Aspiring Cybersecurity Professional
@@ -79,10 +83,10 @@ I am a Computer Science student passionate about building secure systems, defend
 
 ## 📝 Assignments This Semester
 ---
-[Assignment 1 - Poster](https://github.com/abralyn-hoo/E-portfolio/tree/main/Assignment%201)  
-[Assignment 2 - Video](https://youtu.be/HEHZ8mps7Tw)  
-[Assignment 3 - Report](https://github.com/abralyn-hoo/E-portfolio/tree/main/Assignment%203)  
-[Assignment 4 - Technical Paper](https://github.com/abralyn-hoo/E-portfolio/tree/main/Assignment%204)
+-[Assignment 1 - Poster](https://github.com/abralyn-hoo/E-portfolio/tree/main/Assignment%201)  
+-[Assignment 2 - Video](https://youtu.be/HEHZ8mps7Tw)  
+-[Assignment 3 - Report](https://github.com/abralyn-hoo/E-portfolio/tree/main/Assignment%203)  
+-[Assignment 4 - Technical Paper](https://github.com/abralyn-hoo/E-portfolio/tree/main/Assignment%204)
 
 ### PC Assembly (Lab)
 - **Description**: Assembled a computer system from scratch, focusing on hardware integration and troubleshooting.
@@ -108,7 +112,7 @@ After attending the talk, I realized the importance of balancing technical and s
 - **Assignment 4**: Newspaper
 I have gained valuable insights into the transformative role of emerging technologies in agriculture. I’ve learned how concepts like precision farming, automated machinery, and predictive analytics are revolutionizing the industry. By integrating AI, IoT, and robotics, I’ve come to appreciate how these innovations help farmers improve efficiency, conserve resources, and reduce risks. This knowledge has expanded my understanding of how technology can drive smarter and more sustainable practices. It’s inspiring to see how these advancements can empower farmers, and I’m excited to apply this knowledge in future projects.
 
-- 
+
 ### What I've Learned This Semester:
 
 - **Cybersecurity**: Basic theory of Dsicrete structure, Digital Logic, Technology and Information System, Programming Techniques 1 learn about C++ language.
