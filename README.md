@@ -2,138 +2,15 @@
 
 # My E-Portfolio
 
-Hello! I am a Computer Science student specializing in Network and Computer Security at the University of Technology Malaysia (UTM). This e-portfolio showcases my academic journey, projects, assignments, and skills.
-
-<p align="center">
-  <img src = "https://github.com/user-attachments/assets/5af20193-468d-45a8-a903-bb6d41bfb8d8" width="400" height="500"/>
-</p>
-
-# 💫 About Me:
-I'm Abralyn Hoo Weng Yan.<br>My MBTI is INFJ.<br>I aim to getting flying color in all the exam!<br>I like music my hobby is dancing, playing the piano, singing, reading, watching movie!
-
-
-## Education
-- Bachelor of Computer Science (Computer and Network Security）at UTM.
-
-
-# Welcome to My E-Portfolio
-
-
-
-![Profile Picture](assets/profile_picture.jpg)
-
-## About Me
-
-I am passionate about cybersecurity, programming, and solving complex problems. I strive to integrate my technical knowledge with real-world applications. Below are some highlights of my academic and professional background:
-
-- **Bachelor of Computer Science** with a specialization in **Network and Computer Security**  
-- Developing expertise in **network management**, **cryptography**, and **ethical hacking**  
-- Actively participating in hands-on projects related to **autonomous systems**, **robotics**, and **secure systems**
-
-## Education
-
-### University of Technology Malaysia (UTM)  
-**Bachelor of Computer Science (Specialization in Network and Computer Security)**  
-*Expected Graduation: 2026*  
-
-Relevant Courses:
-- Cybersecurity & Network Defense
-- Data Structures and Algorithms
-- Cryptography
-- Ethical Hacking
-
-## Skills
-
-- **Programming Languages**: Python, Java, C++, HTML, CSS, JavaScript  
-- **Tools**: Git, GitHub, Wireshark, Kali Linux, ROS  
-- **Technologies**: Network Security, Cryptography, Ethical Hacking, Autonomous Systems  
-- **Soft Skills**: Teamwork, Problem-Solving, Communication, Time Management
-
-## Projects
-
-### Autocar Challenge
-In this project, I collaborated with a team to build an autonomous vehicle. I was responsible for:
-- **Algorithm development** (Pathfinding algorithms like A* and Dijkstra)
-- **Sensor integration** (LiDAR and ultrasonic sensors for obstacle detection)
-- **System programming** (ROS and Python)
-
-[Link to Project Documentation](https://github.com/username/autocar-challenge)
-
-### AIROST Program
-Worked on robotic system design and development as part of the AIROST program:
-- Developed control algorithms and integrated various sensors for robot navigation.
-- Optimized the system performance for better accuracy and efficiency.
-
-[Link to Project Repository](https://github.com/username/airost)
-
-## Assignments
-
-### Industry Talk and Industry Visit  
-- **Assignment 1**: Poster  
-- **Assignment 2**: Video  
-- **Assignment 3**: Report  
-- **Assignment 4**: Technical Paper (IEEE Format)  
-
-[Assignment 1 - Poster](assets/industry_talk_poster.pdf)  
-[Assignment 2 - Video](assets/industry_talk_video.mp4)  
-[Assignment 3 - Report](assets/industry_talk_report.pdf)  
-[Assignment 4 - Technical Paper](assets/industry_talk_paper.pdf)  
-
-### PC Assembly Lab  
-- **Description**: Assembled a complete PC from individual components.
-- **Skills Learned**: Hardware assembly, troubleshooting, and system installation.
-
-[PC Assembly Lab Report](assets/pc_assembly_report.pdf)
-
-## Certifications
-
-- **Certified Ethical Hacker (CEH)** - EC-Council  
-- **AWS Certified Solutions Architect – Associate**  
-- **Google IT Support Professional Certificate**
-
-## Reflections
-
-### What I've Learned This Semester:
-- **Cybersecurity**: Gained practical knowledge in ethical hacking, network defense, and data protection.
-- **Teamwork**: Developed collaboration and leadership skills through group projects like Autocar Challenge and AIROST.
-
-### Improvements:
-- More hands-on coding practice in network security.
-- Deeper dive into machine learning applications for cybersecurity.
-
-## Contact Me
-
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/your-linkedin-profile)
-- **GitHub**: [Your GitHub Profile](https://github.com/username)
-
-Feel free to reach out to discuss projects, collaborations, or opportunities!
-
----
-
-### Tips for Customizing Your `README.md` Design
-
-1. **Use Headings**: Organize sections with `#`, `##`, and `###` for clear hierarchy. This makes it easy to navigate.
-   
-2. **Bullet Points**: List items like skills, courses, and projects with bullet points to improve readability.
-
-3. **Links**: Include links to your projects, certificates, or social media profiles so others can easily explore your work.
-
-4. **Images**: Add relevant images (like project screenshots or your profile picture) to make your README more engaging.
-
-5. **Formatting**: Use formatting options like **bold**, *italic*, and `code` to highlight key points.
-
-6. **Badges**: You can add badges for things like build status or languages (e.g., `![Python](https://img.shields.io/badge/Python-3.8-blue)`), which adds a professional touch.
-
----
-
-This structure is just a template, so feel free to add or modify it to suit your personal style and goals.
-
-
-# My E-Portfolio
-
 Welcome to my e-portfolio! This repository highlights my academic achievements, projects, and reflections as part of my journey in pursuing a **Bachelor of Computer Science** with a specialization in **Network and Computer Security** at the University of Technology Malaysia (UTM).
 
-![Profile Picture](assets/profile_picture.jpg)
+
+<p align="center">
+  <img src = "https://th.bing.com/th/id/R.3990d6a02f0d5137053ceaf82f340cfd?rik=NfvTbo3PfpzzXA&riu=http%3a%2f%2fwww.pixelstalk.net%2fwp-content%2fuploads%2f2016%2f07%2fComputer-Science-Pictures-HD.jpg&ehk=f9SU4Dzs6NTVrr5FToQeU5WJmrGY31QsSRMAQ3Vverg%3d&risl=&pid=ImgRaw&r=0"/>
+</p>
+
+## About Me 👨‍💻
+I'm Abralyn Hoo Weng Yan.<br>My MBTI is INFJ.<br>I aim to getting flying color in all the exam!<br>I like music my hobby is dancing, playing the piano, singing, reading, watching movie!
 
 ## Profile
 
@@ -147,15 +24,15 @@ I am a Computer Science student passionate about building secure systems, defend
 
 ## Core
 
-### Education
+## 🎓 Education
 - **University of Technology Malaysia (UTM)**  
   **Bachelor of Computer Science** (Specialization in Network & Computer Security)  
-  *Expected Graduation: 2026*
+  *Expected Graduation: 2029*
 
 ### Position
 - **Student** at the University of Technology Malaysia (UTM)
 
-### Skills
+### Skills 💻:
 - **Programming Languages**: Python, C++, Java, HTML, CSS  
 - **Security Tools**: Kali Linux, Wireshark, Burp Suite  
 - **Cybersecurity**: Network Security, Ethical Hacking, Cryptography, Digital Forensics  
@@ -181,7 +58,8 @@ I am a Computer Science student passionate about building secure systems, defend
 - **Dean's List** (2024)  
 - **Best Project Award** at AIROST Program (2024)
 
-### Projects
+## 📁 Projects
+  
 - **[Autocar Challenge](https://github.com/username/autocar-challenge)**  
   A project to design and build an autonomous car. My role included algorithm development and sensor integration.
 
@@ -190,22 +68,23 @@ I am a Computer Science student passionate about building secure systems, defend
 
 ---
 
-## Links
+## 📱 Links
 
-- **[Personal Website](https://your-website-link.com)**
-- **[LinkedIn Profile](https://www.linkedin.com/in/your-linkedin-profile)**
-- **[GitHub Profile](https://github.com/username)**
+- [GitHub](https://github.com/username)  
+- [LinkedIn](www.linkedin.com/in/-abralyn-8260a1217)
 
 ---
 
-## Assignments and Projects for This Semester
+---
 
-### Industry Talk and Industry Visit
-- **Assignment 1**: Poster  
-- **Assignment 2**: Video  
-- **Assignment 3**: Report  
-- **Assignment 4**: Technical Paper (IEEE Format)
+## 📝 Assignments This Semester
 
+- **Assignment 1**: Industry Talk Poster 🖼️  
+[View Poster](assets/industry_talk_poster.pdf)
+- **Assignment 2**: Industry Visit Video 🎥  
+[Watch Video](assets/industry_talk_video.mp4)
+
+---
 [Assignment 1 - Poster](assets/industry_talk_poster.pdf)  
 [Assignment 2 - Video](assets/industry_talk_video.mp4)  
 [Assignment 3 - Report](assets/industry_talk_report.pdf)  
@@ -221,16 +100,30 @@ I am a Computer Science student passionate about building secure systems, defend
 
 ---
 
-## Reflections
+## 🔮 Reflections for each assignment
 
+- **Assignment 1**: Industry Talk Poster 🖼️
+In this PETRONAS industry talk, I learned that Data Engineering involves designing and building systems to collect, store, and analyze data. I also gained insights into different roles, such as Data Analysts who analyze data, and Data Engineers who integrate data. PETRONAS supports engineers by providing training and hands-on projects to improve their skills. This talk helped me understand the importance of data engineering in business decisions and growth. 
+
+- **Assignment 2**: Industry Visit Video 🎥  
+The industry visit helped us understand the skills and knowledge needed to succeed in the industry.
+
+- **Assignment 3**: Report 
+After attending the talk, I realized the importance of balancing technical and soft skills in building a successful career in computer science. Over the next four years, I aim to strengthen my foundation in programming, algorithms, and system design while actively participating in workshops and hackathons to gain practical experience. Besides, I will also improve my communication skills and collaboration. By staying committed to continuous learning and growth, I am confident in preparing for a successful future in the field. 
+
+- **Assignment 4**: Newspaper
+I have gained valuable insights into the transformative role of emerging technologies in agriculture. I’ve learned how concepts like precision farming, automated machinery, and predictive analytics are revolutionizing the industry. By integrating AI, IoT, and robotics, I’ve come to appreciate how these innovations help farmers improve efficiency, conserve resources, and reduce risks. This knowledge has expanded my understanding of how technology can drive smarter and more sustainable practices. It’s inspiring to see how these advancements can empower farmers, and I’m excited to apply this knowledge in future projects.
+
+- 
 ### What I've Learned This Semester:
-- **Cybersecurity**: Developed a deeper understanding of ethical hacking and network defense, and learned to apply them to real-world scenarios.
+
+- **Cybersecurity**: Basic theory of Dsicrete structure, Digital Logic, Technology and Information System, Programming Techniques 1 learn about C++ language.
 - **Robotics**: Enhanced my skills in sensor integration and algorithm optimization, leading to improved project outcomes.
 - **Design Thinking**: Gained insight into the importance of user-centered design and prototyping for efficient system development.
 
 ### Suggestions for Improvement:
-- More focus on practical hands-on assignments in ethical hacking tools and techniques.
-- Deeper exploration of machine learning in network security.
+- More focus on practical hands-on assignments in do more exercise in c++ language.
+
 
 ---
 
@@ -240,6 +133,6 @@ This e-portfolio reflects my dedication to my studies and my passion for develop
 
 ---
 
-### File Structure Example:
+
 
 
