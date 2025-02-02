@@ -60,7 +60,7 @@ I am a Computer Science student passionate about building secure systems, defend
 
 ## 📁 Projects
   
-- **[Autocar Challenge](https://github.com/username/autocar-challenge)**  
+- **[Autocar Challenge](https://github.com/abralyn-hoo/Autocar-Challenge/tree/main)**  
   A individual project to design and build an autonomous car.
 
 - **[AIROST Program](https://github.com/clis013/TeamCKA)**  
