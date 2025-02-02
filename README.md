@@ -45,14 +45,13 @@ I am a Computer Science student passionate about building secure systems, defend
 
 ### Recommended
 - **Courses**:
-  - Cybersecurity Fundamentals
-  - Data Structures & Algorithms
-  - Network Defense and Ethical Hacking  
-  - Cryptography and Secure Communication
+  - Technology and Information System
+  - Programming Techniques 1
+  - Digital Logic
+  - Discrete Structure
 
 - **Certifications**:
-  - **Certified Ethical Hacker (CEH)** (Expected 2025)
-  - **AWS Certified Solutions Architect – Associate** (2024)
+  - **ABRSM Grade 8 Distinction** 
 
 ---
 
